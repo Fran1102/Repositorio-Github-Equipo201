@@ -1,0 +1,2 @@
+1,Ele Morales,ele.m@example.com,Exp1011,B2,1,
+2,Juan Caro,juan@gmail.com,Exp2929,C1,0,
